@@ -4,9 +4,9 @@
 ### **Overview**
 
 This project presents a machine learning model developed to predict user churn for Waze, a leading navigation app. By identifying churn-prone users and the factors contributing to churn, this model can drive actionable insights to improve user retention and optimize business outcomes. Key questions addressed include:
-	- Who are the users most likely to churn?
-	- Why do users churn?
-	- When do users churn?
+- Who are the users most likely to churn?
+- Why do users churn?
+- When do users churn?
 
 ### **Background**
 Waze simplifies navigation for millions worldwide, leveraging community-driven insights to ensure safer, more efficient travel. Through partnerships with cities, businesses, and transportation authorities, Waze continually evolves to meet user needs. Retaining users is critical to its mission, making churn prediction a strategic priority
